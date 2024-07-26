@@ -1,6 +1,6 @@
 === Hide Admin Icons ===
 Contributors: functionsfile
-Tags: admin, remove, hide, menu, header, icon
+Tags: admin, remove, hide, menu
 Requires at least: 2.7
 Tested up to: 6.6
 Stable tag: 1.6.0
