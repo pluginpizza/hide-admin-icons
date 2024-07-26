@@ -11,6 +11,10 @@ Hides the icons in the admin navigation and admin page titles.
 
 Hide Admin Icons hides the navigation menu icons and admin page title icons. The menu icons remain visible when the menu is in its collapsed state.
 
+### Bug Reports
+
+Do you want to report a bug or suggest a feature for Hide Admin Icons? Best to do so in the [Hide Admin Icons repository on GitHub](https://github.com/pluginpizza/hide-admin-icons/).
+
 == Installation ==
 
 1. Download the plugin archive and expand it.
@@ -25,4 +29,4 @@ Hide Admin Icons hides the navigation menu icons and admin page title icons. The
 * 1.3.1 Nothing fancy, just edited the way the Hide Admin Icons css file is included in the admin header, you shouldn't notice any change really.
 * 1.3 Now also removes the icons from admin page headers.
 * 1.2 CSS fixed to reflect the 2.7-beta3-9826 html structure.
-* 1.1 Fix for code error, tried to retrieve the .css file from incorrect directory. Thanks [Lecactus](http://lecactus.ru "Lecactus") ;)
+* 1.1 Fix for code error, tried to retrieve the .css file from incorrect directory. Props [@lecactus](https://profiles.wordpress.org/lecactus/)!
