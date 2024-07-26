@@ -1,5 +1,5 @@
 === Hide Admin Icons ===
-Contributors: functionsfile
+Contributors: pluginpizza, barryceelen, functionsfile
 Tags: admin, remove, hide, menu
 Requires at least: 2.7
 Tested up to: 6.6
