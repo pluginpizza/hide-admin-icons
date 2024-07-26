@@ -3,7 +3,9 @@ Contributors: functionsfile
 Tags: admin, remove, hide, menu, header, icon
 Requires at least: 2.7
 Tested up to: 6.6
-Stable tag: trunk
+Stable tag: 1.6.0
+License: GPLv3+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Hides the icons in the admin navigation and admin page titles.
 
