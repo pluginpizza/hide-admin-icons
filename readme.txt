@@ -1,8 +1,8 @@
 === Hide Admin Icons ===
 Contributors: functionsfile
-Tags: admin, remove, hide, menu, header, icon, icons
+Tags: admin, remove, hide, menu, header, icon
 Requires at least: 2.7
-Tested up to: 6
+Tested up to: 6.6
 Stable tag: trunk
 
 Hides the icons in the admin navigation and admin page titles.
