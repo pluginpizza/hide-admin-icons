@@ -5,7 +5,7 @@
  * Plugin Name: Hide Admin Icons
  * Plugin URI: http://wordpress.org/plugins/hide-admin-icons/
  * Description: Hides the icons in the admin menu and page titles.
- * Version: 1.6.0
+ * Version: 2.0.0
  * Author: Plugin Pizza
  * Author URI: https://plugin.pizza
  *

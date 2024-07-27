@@ -3,7 +3,7 @@ Contributors: pluginpizza, barryceelen, functionsfile
 Tags: admin, remove, hide, menu
 Requires at least: 2.7
 Tested up to: 6.6
-Stable tag: 1.6.0
+Stable tag: 2.0.0
 License: GPLv3+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,7 +24,7 @@ Do you want to report a bug or suggest a feature for Hide Admin Icons? Best to d
 3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for Hide Admin Icons.
 
 == Changelog ==
-
+* 2.0.0 Remove support for legacy WordPress installs.
 * 1.4 Adds support for the [MP6](http://wordpress.org/plugins/mp6/) plugin
 * 1.3.3 Fixed incorrectly hidden navigation menu icons on narrow screens.
 * 1.3.2 Removed unnecessary image file, updated css, renamed functions.
