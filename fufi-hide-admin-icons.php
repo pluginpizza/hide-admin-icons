@@ -26,6 +26,6 @@ function fufi_hai_admin_enqueue_scripts() {
 		'fufi_hide_admin_icons',
 		plugins_url( 'fufi-hide-admin-icons.css', __FILE__ ),
 		array(),
-		'1.4'
+		'2.0.0'
 	);
 }
