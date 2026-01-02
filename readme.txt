@@ -1,5 +1,5 @@
 === Hide Admin Icons ===
-Contributors: pluginpizza, barryceelen, functionsfile
+Contributors: pluginpizza, barryceelen
 Tags: admin, remove, hide, menu
 Requires at least: 2.7
 Tested up to: 6.9
@@ -13,7 +13,7 @@ Hides the icons in the admin navigation and admin page titles.
 
 Hide Admin Icons hides the navigation menu icons and admin page title icons. The menu icons remain visible when the menu is in its collapsed state.
 
-### Bug Reports
+= Bug Reports =
 
 Do you want to report a bug or suggest a feature for Hide Admin Icons? Best to do so in the [Hide Admin Icons repository on GitHub](https://github.com/pluginpizza/hide-admin-icons/).
 
@@ -23,7 +23,19 @@ Do you want to report a bug or suggest a feature for Hide Admin Icons? Best to d
 2. Put the 'hide-admin-icons' directory in your WordPress plugin directory.
 3. Go to the Plugins page in your WordPress Administration area and click 'Activate' for Hide Admin Icons.
 
+= Install Automatic Login from within WordPress =
+
+1. Visit the Plugins page within your dashboard and select ‘Add New’
+1. Search for ‘Hide Admin Icons'
+1. Activate Hide Admin Icons from your Plugins page
+
+= Install Hide Admin Icons manually =
+
+1. Add the ‘hide-admin-icons’ folder to the /wp-content/plugins/ directory
+1. Activate the Hide Admin Icons plugin through the ‘Plugins’ menu in WordPress
+
 == Changelog ==
+
 * 2.0.0 Remove support for legacy WordPress installs.
 * 1.4 Adds support for the [MP6](http://wordpress.org/plugins/mp6/) plugin
 * 1.3.3 Fixed incorrectly hidden navigation menu icons on narrow screens.
