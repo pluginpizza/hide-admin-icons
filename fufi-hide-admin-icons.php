@@ -13,6 +13,8 @@
  * @package PluginPizza\HideAdminIcons
  */
 
+if ( ! defined( 'ABSPATH' ) ) exit;
+
 // Enqueue stylesheet.
 add_action( 'admin_enqueue_scripts', 'fufi_hai_admin_enqueue_scripts' );
 
