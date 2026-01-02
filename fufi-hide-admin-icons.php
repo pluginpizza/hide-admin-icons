@@ -8,6 +8,7 @@
  * Version: 2.0.0
  * Author: Plugin Pizza
  * Author URI: https://plugin.pizza
+ * License: GPLv3+
  *
  * @package PluginPizza\HideAdminIcons
  */
